@@ -83,7 +83,7 @@ Before you begin, ensure you have the following installed on your system:
 
    Start the application by running the following command:
       ```bash
-   npm start
+   node index.js
 
 
  
