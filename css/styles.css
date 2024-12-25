@@ -1,0 +1,17 @@
+
+body {
+  background-color: #186b54;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
